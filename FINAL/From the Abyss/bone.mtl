@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:17.04.2019 23:36:03
+
+newmtl 01___Default
+	Ns 64.0000
+	Ni 2.1100
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1294 0.0000 0.0000
+	Kd 0.1294 0.0000 0.0000
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0118
+	map_Ka 贴图__3_Marble.tga
+	map_Kd 贴图__3_Marble.tga
+	map_Ke 贴图__1_Marble.tga
