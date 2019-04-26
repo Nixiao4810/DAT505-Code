@@ -23,29 +23,27 @@ work.Background music I borrowed the soundtrack of Heroes of Might and Magic V, 
 
 
 #### Catalogue ####
-* Final
- * MACOSX
- * From the Abyss
-  * audio
-   * City0.mp3
-  * build
-   * MTLLoader.js
-   * OBJLoader.JS
-   * THREE.MIN.JS
-  * css
+From the Abyss
+* audio
+  * City0.mp3
+* build
+  * MTLLoader.js
+  * OBJLoader.JS
+  * THREE.MIN.JS
+* css
    * style.css
-  * js
-  * ScreenShot
-   * 111.png
-   * 2.png
-   * 3.png
-   * 4.png
- * .DS_Store
- * Alien_Muscle_001_COLOR.jpg
- * bone.mtl
- * bone.obj
- * index.html
- * README.md
+* js
+* ScreenShot
+  * 111.png
+  * 2.png
+  * 3.png
+  * 4.png
+* .DS_Store
+* Alien_Muscle_001_COLOR.jpg
+* bone.mtl
+* bone.obj
+* index.html
+* README.md
 
 
 #### Usage ####
