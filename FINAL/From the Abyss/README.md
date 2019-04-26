@@ -35,8 +35,12 @@ work.Background music I borrowed the soundtrack of Heroes of Might and Magic V, 
   * css
    * style.css
   * js
+  * ScreenShot
+   * 111.png
+   * 2.png
+   * 3.png
+   * 4.png
  * .DS_Store
- * 111.png
  * Alien_Muscle_001_COLOR.jpg
  * bone.mtl
  * bone.obj
