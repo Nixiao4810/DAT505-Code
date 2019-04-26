@@ -8,10 +8,10 @@
 [Final Work](https://github.com/Nixiao4810/DAT505-Code/tree/master/FINAL)
 
 #### screen composition ####
-![screen composition](/FINAL/From the Abyss/ScreenShot/111.png)
-![screen composition](/FINAL/From the Abyss/ScreenShot/2.png)
-![screen composition](/FINAL/From the Abyss/ScreenShot/3.png)
-![screen composition](/FINAL/From the Abyss/ScreenShot/4.png)
+![screen composition](https://github.com/Nixiao4810/DAT505-Code/blob/master/FINAL/From%20the%20Abyss/ScreenShot/111.png)
+![screen composition](https://github.com/Nixiao4810/DAT505-Code/blob/master/FINAL/From%20the%20Abyss/ScreenShot/2.png)
+![screen composition](https://github.com/Nixiao4810/DAT505-Code/blob/master/FINAL/From%20the%20Abyss/ScreenShot/3.png)
+![screen composition](https://github.com/Nixiao4810/DAT505-Code/blob/master/FINAL/From%20the%20Abyss/ScreenShot/4.png)
 
 
 
